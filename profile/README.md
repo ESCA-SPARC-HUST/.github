@@ -5,7 +5,7 @@ Some infomation about us 😎
 👩‍💻 Research Orientation: focusing on issues of applying science and technology to social and educational projects  
 
 The documentation ESCA provides on github includes:
-* AirSENSE
+* ESCA Information
   * Environmental sound collection and analysis embedded application
 * ESCA Version
   
