@@ -8,4 +8,11 @@ The documentation ESCA provides on github includes:
 * ESCA Information
   * Environmental sound collection and analysis embedded application
 * ESCA Version
+
+The repositories:
+1. Embedded_Linux_Jetson_Nano:
+* Record module to collect sound data
+* QT interface
+* Transfer learning to detect abnomosly sound
+3. FTP Server
   
